@@ -1,0 +1,47 @@
+_repo: The-Sword-of-Welleran-and-Other-Stories_10806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "The Sword of Welleran and Other Stories is the third book by Irish fantasy\
+  \ writer Lord Dunsany, considered a major influence on the work of J. R. R. Tolkien,\
+  \ H. P. Lovecraft, Ursula K. Le Guin and others. It was first published in hardcover\
+  \ by George Allen & Sons in October, 1908, and has been reprinted a number of times\
+  \ since. Issued by the Modern Library in a combined edition with A Dreamer's Tales\
+  \ as A Dreamer's Tales and Other Stories in 1917.\nThe book is a series of short\
+  \ stories, some of them linked by Dunsany's invented pantheon of deities who dwell\
+  \ in Pegāna, which were the focus of his earlier collections The Gods of Pegāna\
+  \ and Time and the Gods. One of the stories, \"The Fortress Unvanquishable, Save\
+  \ for Sacnoth,\" was afterwards (1910) published by itself as a separate book, a\
+  \ now very-rare \"Art-and-Craft\" style limited edition.\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10806'
+  wikidata: Q7767777
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction, English'
+- GITenberg
+tableOfContents: The sword of Welleran -- The fall of Babbulkund -- The kith of the
+  elf-folk -- The highwaymen -- In the twilight -- The ghosts -- The whirlpool --
+  The hurricane -- The fortress unvanquishable, save for Sacnoth -- The lord of cities
+  -- The doom of La Traviata -- On the dry land.
+title: The Sword of Welleran and Other Stories
+url: http://www.gutenberg.org/ebooks/10806
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Sword_of_Welleran_and_Other_Stories
